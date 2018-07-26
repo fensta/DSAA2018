@@ -5,4 +5,4 @@ Info on which script produced which figure in our paper: For reproducing the fig
 
 Link to paper:
 
-Link to dataset:
+Link to dataset: https://www.researchgate.net/publication/326625792_Dataset_for_our_paper_titled_Predicting_worker_disagreement_for_more_effective_crowd_labeling
